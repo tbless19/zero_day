@@ -1,4 +1,4 @@
 ~~~~
 This is a 
-Vagran task assignment
+Vagrant task assignment
 ~~~
