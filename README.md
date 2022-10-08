@@ -1,4 +1,4 @@
 ~~~~
-This is a 
+This is an interesting
 Vagrant task assignment
 ~~~
